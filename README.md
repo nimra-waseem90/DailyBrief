@@ -124,7 +124,4 @@ integration and 30-day ingestion pipeline. See `docs/sprint-logs/` for sprint su
 ## License
 
 Academic project — FYDP-DSE, FCIT, University of the Punjab. Not licensed for
-<<<<<<< HEAD
-=======
 commercial use without permission from the authors and department.
->>>>>>> 8e7e9d762b0ee896601febe7bcf7e409e8596ce4
