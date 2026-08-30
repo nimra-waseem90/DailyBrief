@@ -8,8 +8,8 @@
 
 | Name | Roll Number | Role |
 |---|---|---|
-| Khubaib Ali Khan | BSEF23A031 | Scrum Master / Backend Lead |
-| Nauman Saeed | BSEF23A008 | Product Owner / AI & LLM Lead |
+| Khubaib Ali Khan | BSEF23A031 | Product Owner / AI & LLM Lead |
+| Nauman Saeed | BSEF23A008 | Scrum Master / Backend Lead |
 | Sufyan Saeed | BSEF23A011 | Frontend Lead / UI & UX |
 | Nimra Waseem | BSEF23A019 | QA Lead / Evaluation & Testing |
 
